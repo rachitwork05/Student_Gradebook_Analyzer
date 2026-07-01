@@ -1,0 +1,50 @@
+Statistics for Each Student
+
+      Name  Average  Median  Maximum  Minimum
+0    Alice    88.75    89.0       92       85
+1      Bob    79.75    79.5       82       78
+2  Charlie    94.25    94.5       96       92
+3    David    72.75    73.0       75       70
+4      Eva    88.00    88.5       91       84
+
+
+
+
+
+
+Statistics for Each Assignment
+
+             Average  Median  Maximum  Minimum
+Assignment1     82.6      85       92       70
+Assignment2     85.2      84       95       75
+Assignment3     85.0      88       94       72
+Assignment4     86.0      89       96       74
+
+
+
+Students Sorted by Average
+
+Charlie    94.25
+Alice      88.75
+Eva        88.00
+Bob        79.75
+David      72.75
+
+
+Top Performer
+
+Name            Charlie
+Average          94.25
+Median           94.50
+Maximum             96
+Minimum             92
+
+
+Overall Statistics
+
+Overall Average : 84.3
+Overall Median  : 85.0
+Overall Maximum : 96
+Overall Minimum : 70
+
+
